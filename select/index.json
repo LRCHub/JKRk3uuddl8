@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "旅",
+  "base_artist": "sui",
+  "createdAt": "2026-03-02T17:39:21.408863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "尾崎亜美",
+      "has_synced": false,
+      "path": "select/01_旅_尾崎亜美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "Ketsumeishi",
+      "has_synced": false,
+      "path": "select/02_旅_Ketsumeishi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "旅 = Tabi",
+      "artist": "赤い鳥",
+      "has_synced": false,
+      "path": "select/03_旅_=_Tabi_赤い鳥.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "旅 = Tabi",
+      "artist": "Akai Tori",
+      "has_synced": false,
+      "path": "select/04_旅_=_Tabi_Akai_Tori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "赤い鳥",
+      "has_synced": false,
+      "path": "select/05_旅_赤い鳥.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "旅．課",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/06_旅.課_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "Ozaki, Amii",
+      "has_synced": false,
+      "path": "select/07_旅_Ozaki,_Amii.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "Amii Ozaki",
+      "has_synced": false,
+      "path": "select/08_旅_Amii_Ozaki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/09_旅_ケツメイシ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "潘越云",
+      "has_synced": true,
+      "path": "select/10_旅_潘越云.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "旅",
+      "artist": "Sui",
+      "has_synced": true,
+      "path": "select/11_旅_Sui.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "旅☆EVERYDAY",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/12_旅☆EVERYDAY_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "旅☆EVERYDAY",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/13_旅☆EVERYDAY_B’z.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tabi (旅)",
+      "artist": "Akai Tori",
+      "has_synced": false,
+      "path": "select/14_Tabi_(旅)_Akai_Tori.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "旅☆EVERYDAY",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/15_旅☆EVERYDAY_B'z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅",
+      "artist": "sui",
+      "has_synced": false,
+      "path": "select/pl_01_旅_sui.txt"
+    }
+  ]
+}
